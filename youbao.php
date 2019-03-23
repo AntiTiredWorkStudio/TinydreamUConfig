@@ -1,6 +1,6 @@
 <?php 
 $data = [
-	"template"=>"page01.html",
+	"template"=>"youbao.html",
 	"bannerImgUrl"=>"https://tdream.antit.top/image/trade_ybshj.jpg",
 	"part01_title"=>"生意详情：",
 	"part01_subTitle01"=>"1.友宝简介",
