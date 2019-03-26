@@ -1,7 +1,8 @@
 <?php 
 $data = [
 	"template"=>"youbao.html",
-	"bannerImgUrl"=>"https://tdream.antit.top/image/trade_ybshj.jpg",
+	"bannerImgUrl"=>"https://tdream.antit.top/image/trade_ybshj.jpg",//封面图
+	"awardContent"=>"友宝成立于2011年，致力于将智能网络应用在自动售货机上......",//小生意幸运者详情页显示的文字
 	"part01_title"=>"生意详情：",
 	"part01_subTitle01"=>"1.友宝简介",
 	"part01_subTitle02"=>"2.加盟优势",
