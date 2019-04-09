@@ -45,6 +45,12 @@ $data = [
 		],
 		[
 			"check"=>false,
+			"normal"=>"https://tdream.antit.top/8diaryIU.png",
+			"active"=>"https://tdream.antit.top/8diaryIA.png",
+			"title"=>"写日记",
+		],
+		[
+			"check"=>false,
 			"normal"=>"https://tdream.antit.top/9breakfastIU.png",
 			"active"=>"https://tdream.antit.top/9breakfastIA.png",
 			"title"=>"吃早餐",
