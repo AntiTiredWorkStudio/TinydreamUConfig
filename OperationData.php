@@ -74,10 +74,11 @@ $data = [
 			"title"=>"拍照",
 		],
 		[
-			"check"=>false,
+			"check"=>true,
 			"normal"=>"https://tdream.antit.top/5drinkingIU.png",
 			"active"=>"https://tdream.antit.top/5drinkingIA.png",
 			"title"=>"其他",
+
 		],
 	]
 ];
