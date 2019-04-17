@@ -80,6 +80,22 @@ $data = [
 		// 	"title"=>"其他",
 
 		// ],
+	],
+	'feedback'=>[//用户反馈
+		[
+			'headicon'=>"",
+			'username'=>"",
+			'content'=>""
+		],
+		[
+			'headicon'=>"",
+			'username'=>"",
+			'content'=>""
+		],
+	],
+	'cattention'=>[//合约注意事项
+		'CO0000000001'=>"<p></p><p></p>",
+		'CO0000000002'=>"<p></p><p></p>"
 	]
 ];
 ?>
