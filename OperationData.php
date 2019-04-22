@@ -83,6 +83,12 @@ $data = [
 	],
 	'feedback'=>[//用户反馈
 		[
+			'headicon'=>'https://tdream.antit.top/tx_20190422233756.png',
+			'title'=>"大三学生",
+			'nickname'=>'张玲',
+			'content'=>"马上就要参加英语六级考试了，却迟迟没有开始准备，这次参加追梦行动派行动合约，终于开始行动了，每天早起读英语背单词快一个月了，真的很有成就感，既学习了又养成了早起的好习惯，Nice！"
+		],
+		[
 			'headicon'=>"https://tdream.antit.top/image/icon01.png",
 			'title'=>"公司白领",
 			"username"=>"瑞丽",
