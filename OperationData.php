@@ -81,6 +81,28 @@ $data = [
 
 		// ],
 	],
+	'theme_type'=>[//主题类型
+		'main'=>[
+			'exercise'=>"运动健身",
+			'english'=>"英语",
+			'art'=>"艺术",
+			'work'=>"创业/职场",
+			'life'=>"生活",
+		],
+		'sub'=>[
+			'健身'=>'exercise',
+            '减肥'=>'exercise',
+            '记单词'=>'english',
+            '画画'=>'art',
+            '看书'=>'work',
+            '早起'=>'life',
+            '早睡'=>'life',
+            '喝水'=>'life',
+            '吃早餐'=>'life',
+            '练字'=>'life',
+            '写日记'=>'life',
+		]
+	],
 	'feedback'=>[//用户反馈
 		[
 			'headicon'=>'https://tdream.antit.top/tx_20190422233756.png',
